@@ -17,8 +17,9 @@ in which you can add and remove songs, as well as change their order.
 #### server ####
 
 1. Open a terminal and navigate to the project's root directory
-2. Install the required dependencies by running:``` npm install ```
-3. Start the server by running ``` npm start ```
+2. Navigate to the client directory by running ``` cd server ```
+3. Install the required dependencies by running:``` npm install ```
+4. Start the server by running ``` npm start ```
 
 #### client ####
 
