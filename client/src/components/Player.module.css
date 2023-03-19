@@ -1,0 +1,7 @@
+.player {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    margin: 4rem
+}
